@@ -1,0 +1,1 @@
+Contains the STEP solidworks3d file of all three rotos.
